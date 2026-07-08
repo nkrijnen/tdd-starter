@@ -2,6 +2,10 @@
 
 This repo acts as a starter for modeling in code hands-on.
 
+## Setup
+
+The gradle version is pinned to 7.4.2, so you need to use a compatible JDK version installed (for example JDK 17).
+
 
 ## Your assignment
 
